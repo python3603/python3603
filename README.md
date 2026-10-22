@@ -8,36 +8,110 @@
 
 **脚踏实地，仰望星空**
 
-`海洋` · `气象` · `行星科学`
+*Feet on the ground, eyes on the stars.*
+
+[![Bilibili](https://img.shields.io/badge/Bilibili-%E7%A2%B3%E5%9F%BA12-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1904371048)
+[![Email](https://img.shields.io/badge/Email-python3603%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:python3603@qq.com)
+[![GitHub](https://img.shields.io/badge/GitHub-python3603-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/python3603)
+
+<br/>
+
+![Ocean](https://img.shields.io/badge/%E6%B5%B7%E6%B4%8B-0B4F6C?style=for-the-badge)
+![Atmosphere](https://img.shields.io/badge/%E6%B0%94%E8%B1%A1-1B7A8F?style=for-the-badge)
+![Planetary](https://img.shields.io/badge/%E8%A1%8C%E6%98%9F%E7%A7%91%E5%AD%A6-0A1A2E?style=for-the-badge)
+![Remote Sensing](https://img.shields.io/badge/%E9%81%A5%E6%84%9F-2AA7BB?style=for-the-badge)
+
+</div>
+
+<p align="center">
+  <a href="#about">关于 About</a> ·
+  <a href="#research">研究与经历 Research</a> ·
+  <a href="#engineering">工程 Engineering</a> ·
+  <a href="#toolbox">工具箱 Toolbox</a>
+</p>
+
+---
+
+<div align="center">
+
+<em>“路漫漫其修远兮，吾将上下而求索。” —— 《离骚》</em>
+
+<em>"The road ahead is long and winding; I will search high and low." — Li Sao</em>
 
 </div>
 
 ---
 
+<a id="about"></a>
+
+## 关于 / About
+
 研究主线为**遥感反演方法**：从有限的观测信号中，稳健地还原物理量。
 
 海面的粗糙度与波谱、平流层的云与气溶胶、行星大气的散射与辐射收支——**问题不同，方法同源**。海洋与大气的星载观测是这条主线的验证场，行星探测则是它在尺度上的延伸。
 
-## 研究与经历
+My work centers on **remote-sensing retrieval**: recovering physical quantities robustly from limited observations.
 
-- **星载单光子激光雷达海面风速反演**（在研）—— 基于 ICESat-2 / ATL03 光子点云：去噪与海面信号提取、波形参数反演，联合海面均方斜率与波谱特征建立风速模型，并与 GNSS-R（CYGNSS）产品交叉验证。
-- **北京大学地球科学夏令营**（2024）· 地球系统科学方向
-- **CESO 2024** · 金奖 · 全国第 41
-
-## 工程
-
-- **DeepSeek Harness 插件开发** —— Host / Client 双侧插件，TypeScript 与 Cordis 依赖注入，自定义 UI Slot 与 patcher 层加载。
-- **遥感数据处理流水线** —— 光子级点云处理、沿轨剖面重建与波数谱分析，以全流程可复现、结果可验证为工程准则。
-
-## 工具箱
-
-| 类别 | 常用 |
-| --- | --- |
-| 语言 | `Python` · `TypeScript` · `JavaScript` |
-| 科学计算 | `NumPy` · `pandas` · `xarray` · `SciPy` · `Matplotlib` |
-| 工程 | `VS Code` · `Git` · `GitHub Actions` · `uv` · `pnpm` |
-| 环境 | `Windows` · `Linux (WSL)` · `PowerShell` |
+Sea-surface roughness and wave spectra, stratospheric clouds and aerosols, planetary atmospheric scattering and radiation budget — **different problems, one methodology**. Satellite observations of the ocean and atmosphere are the proving ground of this line; planetary exploration is its extension in scale.
 
 ---
 
-<sub>[Bilibili](https://space.bilibili.com/1904371048) · 碳基12</sub>
+<a id="research"></a>
+
+## 研究与经历 / Research & Experience
+
+- **星载单光子激光雷达海面风速反演**（在研）—— 基于 ICESat-2 / ATL03 光子点云：去噪与海面信号提取、波形参数反演，联合海面均方斜率与波谱特征建立风速模型，并与 GNSS-R（CYGNSS）产品交叉验证。
+  <br><sub><em>Spaceborne single-photon lidar retrieval of sea-surface wind speed (ongoing) — ICESat-2 / ATL03 photon point clouds: denoising and sea-surface signal extraction, waveform-parameter inversion, wind-speed modeling from mean-square slope and wave-spectrum features, cross-validated against GNSS-R (CYGNSS) products.</em></sub>
+- **北京大学地球科学夏令营**（2024）· 地球系统科学方向
+  <br><sub><em>Peking University Earth Science Summer Camp (2024) · Earth System Science</em></sub>
+- **CESO 2024** · 金奖 · 全国第 41
+  <br><sub><em>CESO 2024 (Chinese Earth Science Olympiad) · Gold Medal · National Rank 41</em></sub>
+
+---
+
+<a id="engineering"></a>
+
+## 工程 / Engineering
+
+- **DeepSeek Harness 插件开发** —— Host / Client 双侧插件，TypeScript 与 Cordis 依赖注入，自定义 UI Slot 与 patcher 层加载。
+  <br><sub><em>DeepSeek Harness plugin development — host/client dual-side plugins, TypeScript with Cordis dependency injection, custom UI slots and patcher-layer loading.</em></sub>
+- **遥感数据处理流水线** —— 光子级点云处理、沿轨剖面重建与波数谱分析，以全流程可复现、结果可验证为工程准则。
+  <br><sub><em>Remote-sensing data pipeline — photon-level point-cloud processing, along-track profile reconstruction and wavenumber spectral analysis, held to reproducibility and verifiability.</em></sub>
+
+---
+
+<a id="toolbox"></a>
+
+## 工具箱 / Toolbox
+
+### 💻 语言 / Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### 🔬 科学计算 / Scientific Computing
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![xarray](https://img.shields.io/badge/xarray-2E7FBE?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### ⚙️ 工程 / Engineering
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+
+### 🖥️ 环境 / Environment
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WSL](https://img.shields.io/badge/WSL-4D9EE6?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+<p align="center"><sub>© 2026 碳基12 · Banner: NASA GIBS / MODIS-Aqua · Made with Markdown, satellite imagery and patience.</sub></p>
