@@ -14,6 +14,7 @@
 [![Email](https://img.shields.io/badge/Email-python3603%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:python3603@qq.com)
 [![GitHub](https://img.shields.io/badge/GitHub-python3603-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/python3603)
 [![Profile views](https://komarev.com/ghpvc/?username=python3603&style=for-the-badge&color=0B4F6C&label=PROFILE+VIEWS)](https://github.com/python3603)
+[![Team](https://img.shields.io/badge/%E7%B2%A4%E6%B0%94%E7%88%B1%E8%BF%BD%E9%A3%8E%E5%B0%8F%E9%98%9F-yueqiai.pages.dev-1B7A8F?style=for-the-badge&logo=cloudflare&logoColor=white)](https://yueqiai.pages.dev/)
 
 <br/>
 
@@ -28,6 +29,7 @@
   <a href="#about">关于 About</a> ·
   <a href="#research">研究与经历 Research</a> ·
   <a href="#engineering">工程 Engineering</a> ·
+  <a href="#orgs">组织 Organizations</a> ·
   <a href="#toolbox">工具箱 Toolbox</a>
 </p>
 
@@ -110,6 +112,30 @@ Sea-surface roughness and wave spectra, stratospheric cloud and aerosol fields, 
 
 ---
 
+<a id="orgs"></a>
+
+## 组织 / Organizations
+
+<table align="center">
+  <tr>
+    <td align="center" width="400">
+      <a href="https://github.com/Supercell-Hunter"><img src="https://avatars.githubusercontent.com/u/275766086?v=4" width="84" /></a>
+      <br /><br />
+      <a href="https://github.com/Supercell-Hunter"><strong>Supercell Hunter</strong></a>
+      <br />
+      <sub><em>粤气爱追风小队</em></sub>
+      <br /><br />
+      成立于 2025 年，追逐强对流、台风与锋面，<br />
+      记录并传播华南的激烈天气。
+      <br />
+      <sub><em>Founded in 2025 · chasing severe convection, typhoons and fronts across Guangdong.</em></sub>
+      <br /><br />
+      <a href="https://yueqiai.pages.dev/"><img src="https://img.shields.io/badge/Website-yueqiai.pages.dev-1B7A8F?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+---
 ### 此刻 / Now
 
 <table align="center">
