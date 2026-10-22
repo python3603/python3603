@@ -8,7 +8,7 @@
 
 **脚踏实地，仰望星空**
 
-*Feet on the ground, eyes on the stars.*
+*Rooted on Earth, reaching for the stars.*
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-%E7%A2%B3%E5%9F%BA12-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1904371048)
 [![Email](https://img.shields.io/badge/Email-python3603%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:python3603@qq.com)
@@ -102,6 +102,11 @@ Sea-surface roughness and wave spectra, stratospheric cloud and aerosol fields, 
 ![xarray](https://img.shields.io/badge/xarray-2E7FBE?style=for-the-badge)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### 🛰️ 遥感 / Remote Sensing
+
+![ICESat-2](https://img.shields.io/badge/ICESat--2-0B3D91?style=for-the-badge)
+![GNSS-R](https://img.shields.io/badge/GNSS--R-14746F?style=for-the-badge)
 
 ### ⚙️ 工程 / Engineering
 
