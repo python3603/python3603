@@ -34,9 +34,13 @@
 
 <div align="center">
 
-<em>“路漫漫其修远兮，吾将上下而求索。” —— 《离骚》</em>
+<em>“地球是人类的摇篮，但人类不可能永远生活在摇篮里。”</em>
 
-<em>"The road ahead is long and winding; I will search high and low." — Li Sao</em>
+<em>— 康斯坦丁·齐奥尔科夫斯基</em>
+
+<em>"The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever."</em>
+
+<em>— Konstantin Tsiolkovsky</em>
 
 </div>
 
