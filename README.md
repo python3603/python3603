@@ -13,7 +13,6 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-%E7%A2%B3%E5%9F%BA12-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1904371048)
 [![Email](https://img.shields.io/badge/Email-python3603%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:python3603@qq.com)
 [![GitHub](https://img.shields.io/badge/GitHub-python3603-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/python3603)
-[![Profile views](https://komarev.com/ghpvc/?username=python3603&style=for-the-badge&color=0B4F6C&label=PROFILE+VIEWS)](https://github.com/python3603)
 [![Team](https://img.shields.io/badge/%E7%B2%A4%E6%B0%94%E7%88%B1%E8%BF%BD%E9%A3%8E%E5%B0%8F%E9%98%9F-yueqiai.pages.dev-1B7A8F?style=for-the-badge&logo=cloudflare&logoColor=white)](https://yueqiai.pages.dev/)
 
 <br/>
