@@ -1,6 +1,6 @@
 ![海洋 · 气象 · 行星科学](assets/banner.jpg)
 
-<p align="center"><sub>Supertyphoon Champi · 2026-10-21 · VIIRS/SNPP True Color · NASA GIBS</sub></p>
+<p align="center"><sub>Supertyphoon Champi · 2026-10-21 · MODIS/Aqua True Color · NASA GIBS</sub></p>
 
 <div align="center">
 
