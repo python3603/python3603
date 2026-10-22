@@ -54,9 +54,9 @@
 
 海面的粗糙度与波谱、平流层的云与气溶胶、行星大气的散射与辐射收支——**问题不同，方法同源**。海洋与大气的星载观测是这条主线的验证场，行星探测则是它在尺度上的延伸。
 
-My work centers on **remote-sensing retrieval**: recovering physical quantities robustly from limited observations.
+My research centers on **remote-sensing retrieval**: inferring physical variables, robustly, from limited observations.
 
-Sea-surface roughness and wave spectra, stratospheric clouds and aerosols, planetary atmospheric scattering and radiation budget — **different problems, one methodology**. Satellite observations of the ocean and atmosphere are the proving ground of this line; planetary exploration is its extension in scale.
+Sea-surface roughness and wave spectra, stratospheric cloud and aerosol fields, planetary atmospheric scattering and radiation budgets: **distinct problems, a shared methodology**. Satellite observations of the ocean and atmosphere serve as its proving ground; planetary exploration carries it across scales.
 
 ---
 
@@ -65,11 +65,11 @@ Sea-surface roughness and wave spectra, stratospheric clouds and aerosols, plane
 ## 研究与经历 / Research & Experience
 
 - **星载单光子激光雷达海面风速反演**（在研）—— 基于 ICESat-2 / ATL03 光子点云：去噪与海面信号提取、波形参数反演，联合海面均方斜率与波谱特征建立风速模型，并与 GNSS-R（CYGNSS）产品交叉验证。
-  <br><sub><em>Spaceborne single-photon lidar retrieval of sea-surface wind speed (ongoing) — ICESat-2 / ATL03 photon point clouds: denoising and sea-surface signal extraction, waveform-parameter inversion, wind-speed modeling from mean-square slope and wave-spectrum features, cross-validated against GNSS-R (CYGNSS) products.</em></sub>
+  <br><sub><em>Spaceborne single-photon lidar retrieval of sea-surface wind speed (in progress) — built on ICESat-2 / ATL03 photon point clouds: denoising and sea-surface signal extraction, waveform-parameter inversion, and a wind-speed model driven by mean square slope and wave-spectrum features, cross-validated against GNSS-R (CYGNSS) products.</em></sub>
 - **北京大学地球科学夏令营**（2024）· 地球系统科学方向
-  <br><sub><em>Peking University Earth Science Summer Camp (2024) · Earth System Science</em></sub>
+  <br><sub><em>Peking University Earth Science Summer Camp (2024) — Earth System Science</em></sub>
 - **CESO 2024** · 金奖 · 全国第 41
-  <br><sub><em>CESO 2024 (Chinese Earth Science Olympiad) · Gold Medal · National Rank 41</em></sub>
+  <br><sub><em>CESO 2024 (Chinese Earth Science Olympiad) — Gold Medal, 41st nationally</em></sub>
 
 ---
 
@@ -78,9 +78,9 @@ Sea-surface roughness and wave spectra, stratospheric clouds and aerosols, plane
 ## 工程 / Engineering
 
 - **DeepSeek Harness 插件开发** —— Host / Client 双侧插件，TypeScript 与 Cordis 依赖注入，自定义 UI Slot 与 patcher 层加载。
-  <br><sub><em>DeepSeek Harness plugin development — host/client dual-side plugins, TypeScript with Cordis dependency injection, custom UI slots and patcher-layer loading.</em></sub>
+  <br><sub><em>DeepSeek Harness plugin development — host- and client-side plugins in TypeScript, with Cordis dependency injection, custom UI slots and patcher-layer loading.</em></sub>
 - **遥感数据处理流水线** —— 光子级点云处理、沿轨剖面重建与波数谱分析，以全流程可复现、结果可验证为工程准则。
-  <br><sub><em>Remote-sensing data pipeline — photon-level point-cloud processing, along-track profile reconstruction and wavenumber spectral analysis, held to reproducibility and verifiability.</em></sub>
+  <br><sub><em>Remote-sensing data pipeline — photon-level point-cloud processing, along-track profile reconstruction and wavenumber spectral analysis, engineered for reproducibility and verifiability.</em></sub>
 
 ---
 
