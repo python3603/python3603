@@ -13,6 +13,7 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-%E7%A2%B3%E5%9F%BA12-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1904371048)
 [![Email](https://img.shields.io/badge/Email-python3603%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:python3603@qq.com)
 [![GitHub](https://img.shields.io/badge/GitHub-python3603-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/python3603)
+[![Profile views](https://komarev.com/ghpvc/?username=python3603&style=for-the-badge&color=0B4F6C&label=PROFILE+VIEWS)](https://github.com/python3603)
 
 <br/>
 
@@ -58,6 +59,31 @@ My research centers on **remote-sensing retrieval**: inferring physical variable
 
 Sea-surface roughness and wave spectra, stratospheric cloud and aerosol fields, planetary atmospheric scattering and radiation budgets: **distinct problems, a shared methodology**. Satellite observations of the ocean and atmosphere serve as its proving ground; planetary exploration carries it across scales.
 
+### 关注领域 / Fields
+
+<table align="center">
+  <tr>
+    <td align="center" width="240">
+      <h3>🌊 海洋</h3>
+      <sub><em>Ocean</em></sub><br /><br />
+      海面粗糙度与波谱<br />
+      星载激光雷达观测
+    </td>
+    <td align="center" width="240">
+      <h3>☁️ 大气</h3>
+      <sub><em>Atmosphere</em></sub><br /><br />
+      云与气溶胶场<br />
+      散射与辐射收支
+    </td>
+    <td align="center" width="240">
+      <h3>🪐 行星</h3>
+      <sub><em>Planetary</em></sub><br /><br />
+      大气散射与辐射<br />
+      尺度上的延伸
+    </td>
+  </tr>
+</table>
+
 ---
 
 <a id="research"></a>
@@ -81,6 +107,33 @@ Sea-surface roughness and wave spectra, stratospheric cloud and aerosol fields, 
   <br><sub><em>DeepSeek Harness plugin development — host- and client-side plugins in TypeScript, with Cordis dependency injection, custom UI slots and patcher-layer loading.</em></sub>
 - **遥感数据处理流水线** —— 光子级点云处理、沿轨剖面重建与波数谱分析，以全流程可复现、结果可验证为工程准则。
   <br><sub><em>Remote-sensing data pipeline — photon-level point-cloud processing, along-track profile reconstruction and wavenumber spectral analysis, engineered for reproducibility and verifiability.</em></sub>
+
+---
+
+### 此刻 / Now
+
+<table align="center">
+  <tr>
+    <td align="center" width="240">
+      <h3>🔭 在研</h3>
+      <sub><em>Researching</em></sub><br /><br />
+      ICESat-2 海面风速反演<br />
+      <sub>光子点云 → 波谱特征 → 风速</sub>
+    </td>
+    <td align="center" width="240">
+      <h3>🧩 在写</h3>
+      <sub><em>Building</em></sub><br /><br />
+      DeepSeek Harness 插件<br />
+      <sub>Host / Client 双侧，TypeScript</sub>
+    </td>
+    <td align="center" width="240">
+      <h3>📖 在学</h3>
+      <sub><em>Learning</em></sub><br /><br />
+      遥感反演方法<br />
+      <sub>与可复现的数据工程</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
